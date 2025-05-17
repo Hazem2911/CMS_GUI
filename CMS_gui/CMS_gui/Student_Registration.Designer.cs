@@ -50,6 +50,7 @@
             this.button1.TabIndex = 25;
             this.button1.Text = "Register";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox5
             // 
@@ -157,6 +158,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Student_Registration";
             this.Text = "Student_Registration";
+            this.Load += new System.EventHandler(this.Student_Registration_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
