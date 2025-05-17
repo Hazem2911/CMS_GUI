@@ -1,0 +1,12 @@
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\bin\Debug\CMS_gui.exe.config
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\bin\Debug\CMS_gui.exe
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\bin\Debug\CMS_gui.pdb
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.csproj.AssemblyReference.cache
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.Properties.Resources.resources
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.csproj.GenerateResource.cache
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.csproj.CoreCompileInputs.cache
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.exe
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.pdb
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.exe.config
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.Form1.resources
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.Instructor_Registration.resources
