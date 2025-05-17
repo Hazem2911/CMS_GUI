@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hazem\\source\\repos\\CMS_gui\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|c:\\users\\hazem\\source\\repos\\cms_gui\\cms_gui\\student_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|solutionrelative:cms_gui\\student_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|c:\\users\\hazem\\source\\repos\\cms_gui\\cms_gui\\instructor_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|solutionrelative:cms_gui\\instructor_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|c:\\users\\hazem\\source\\repos\\cms_gui\\cms_gui\\instructor_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|solutionrelative:cms_gui\\instructor_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|c:\\users\\hazem\\source\\repos\\cms_gui\\cms_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|solutionrelative:cms_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|c:\\users\\hazem\\source\\repos\\cms_gui\\cms_gui\\instructor_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80997046-A904-44E7-9BBC-3A8E24B9F9BF}|CMS_gui\\CMS_gui.csproj|solutionrelative:cms_gui\\instructor_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,19 +47,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student_Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hazem\\source\\repos\\CMS_gui\\CMS_gui\\Student_Registration.cs",
+              "RelativeDocumentMoniker": "CMS_gui\\Student_Registration.cs",
+              "ToolTip": "C:\\Users\\hazem\\source\\repos\\CMS_gui\\CMS_gui\\Student_Registration.cs [Design]*",
+              "RelativeToolTip": "CMS_gui\\Student_Registration.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:35:32.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Instructor_Registration.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\source\\repos\\CMS_gui\\CMS_gui\\Instructor_Registration.cs",
               "RelativeDocumentMoniker": "CMS_gui\\Instructor_Registration.cs",
               "ToolTip": "C:\\Users\\hazem\\source\\repos\\CMS_gui\\CMS_gui\\Instructor_Registration.cs",
               "RelativeToolTip": "CMS_gui\\Instructor_Registration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T20:12:50.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Instructor_Registration.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hazem\\source\\repos\\CMS_gui\\CMS_gui\\Instructor_Registration.cs",
               "RelativeDocumentMoniker": "CMS_gui\\Instructor_Registration.cs",
@@ -67,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\source\\repos\\CMS_gui\\CMS_gui\\Form1.cs",
               "RelativeDocumentMoniker": "CMS_gui\\Form1.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\hazem\\source\\repos\\CMS_gui\\CMS_gui\\Form1.cs",
               "RelativeDocumentMoniker": "CMS_gui\\Form1.cs",

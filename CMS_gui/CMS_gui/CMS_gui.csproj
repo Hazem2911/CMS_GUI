@@ -86,6 +86,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Student_Registration.resx">
+      <DependentUpon>Student_Registration.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="CMSDataSet.xsc">
       <DependentUpon>CMSDataSet.xsd</DependentUpon>
     </None>

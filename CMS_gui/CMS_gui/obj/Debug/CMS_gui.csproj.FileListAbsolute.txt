@@ -10,3 +10,4 @@ C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.pdb
 C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.exe.config
 C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.Form1.resources
 C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.Instructor_Registration.resources
+C:\Users\hazem\source\repos\CMS_gui\CMS_gui\obj\Debug\CMS_gui.Student_Registration.resources
